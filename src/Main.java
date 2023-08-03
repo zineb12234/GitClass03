@@ -8,6 +8,7 @@
             System.out.print("no");
         }
         System.out.println(" the code is complete");
+        System.out.println("the code is correct");
 
     }
     }
